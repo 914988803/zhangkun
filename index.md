@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+00后，水瓶座
 
-You can use the [editor on GitHub](https://github.com/914988803/zhangkun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+目前在读硕士一年级，农艺与种业专业
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+英语很差
 
-### Markdown
+生信在学习（初级阶段）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**看过的书**：《哈利波特系列》、《指环王》《高兴》《商州》《活着》《许三观卖血记》《达芬奇密码》刘慈欣所有的书都看过不止一遍 （其他想到补充）
 
-```markdown
-Syntax highlighted code block
+**看过的电影/剧集**：哈利波特系列，加勒比海盗系列 老友记 生活大爆炸
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/914988803/zhangkun/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+平时喜欢听的**音乐**风格：欧美流行、电子音乐
